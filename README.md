@@ -24,6 +24,13 @@ Neste repositorio, atualizo os codidgos referentes ao meus estudos e projetos pe
   <img src="https://github.com/Stankevix/Marketing-Analytics-with-Python/blob/main/Analyzing%20Social%20Media%20Data/draw_networkx.png" alt="Sublime's custom image"/>
 </p>
 
+## Machine Learning:
+
+* Modelos de supervisionados e não supervisionados (Arvore de Decisão)
+* Regressão logistica para modelo de churn
+* Segmentação de Clientes com hard clustering
+
+
 ## Codes
 
 * Jupyter Notebook
