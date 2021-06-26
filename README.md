@@ -34,6 +34,15 @@ Neste repositorio, atualizo os codidgos referentes ao meus estudos e projetos pe
   <img src="https://raw.githubusercontent.com/Stankevix/Marketing-Analytics-with-Python/main/Machine%20Learning%20for%20Marketing/tree.png" alt="Sublime's custom image"/>
 </p>
 
+## Clustering
+* Analise Cohort
+* Analise RFM
+* Pre processamento de dados
+* Aplicação simplificada KMeans   
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Stankevix/Marketing-Analytics-with-Python/main/Customer%20Segmentation/chapter_4/download.png" alt="Sublime's custom image"/>
+</p>
 
 
 
